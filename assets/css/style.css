@@ -118,3 +118,24 @@ footer {
 	text-align: center;
 	margin-top: 10px;
 }
+
+#form {
+	padding: 0px 30px 30px 30px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: #777777;
+	line-height: 30px;
+}
+
+input[type=text] {
+	height: 20px;
+	width: 300px;
+}
+
+textarea[type=text] {
+	height: 200px;
+	width: 300px;
+}
+
+input[type=submit] {
+	height: 200px;
+}
