@@ -81,6 +81,7 @@ h2 {
 	width: 650px;
 	margin-bottom: 20px;
 	padding: 0px;
+	max-height: 800px;
 }
 
 .small-container {
@@ -154,7 +155,9 @@ input[type=submit] {
 #hangman {
 	float: left;
 	margin: 70px 30px 30px 30px;
-	position: absolute;
+	position: relative;
+	top: 10px;
+	left: -283px;
 	z-index: 3;
 	width: 223px;
 	height: 35px;
@@ -168,17 +171,17 @@ input[type=submit] {
 
 #bike {
 	float: left;
-	margin: 0px 30px 0px 0px;
 	width: 223px;
 	position: relative;
-	top: -36px;
+	top: -152px;
+	left: 117px;
 }
 
 #rpg {
 	float: left;
 	position: relative;
-	left: 260px;
-	bottom: 112px;
+	left: 400px;
+	bottom: 237px;
 	z-index: 3;
 	width: 223px;
 	height: 35px;
@@ -193,10 +196,10 @@ input[type=submit] {
 #giraffe {
 	clear: both;
 	float: left;
-	margin: 0px 30px 30px 30px;
 	width: 223px;
 	position: relative;
-	bottom: 75px;
+	bottom: 150px;
+	left: 30px;
 }
 
 #trivia {
@@ -211,7 +214,8 @@ input[type=submit] {
 	text-align: center;
 	font-family: 'Georgia', Times, Times New Roman, serif;
 	position: relative;
-	right: 230px;
+	right: 193px;
+	bottom: 65px;
 }
 
 #train {
@@ -219,8 +223,8 @@ input[type=submit] {
 	margin: 0px 30px 30px 30px;
 	width: 223px;
 	position: relative;
-	bottom: 141px;
-	right: 30px;	
+	bottom: 216px;
+	right: -147px;	
 }
 
 #rutgers {
@@ -235,8 +239,8 @@ input[type=submit] {
 	text-align: center;
 	font-family: 'Georgia', Times, Times New Roman, serif;
 	position: relative;
-	bottom: 245px;
-	left: 260px;
+	bottom: 330px;
+	left: 400px;
 }
 
 #window {
@@ -245,7 +249,7 @@ input[type=submit] {
 	margin: 0px 30px 30px 30px;
 	width: 223px;
 	position: relative;
-	bottom: 210px;
+	bottom: 240px;
 }
 
 #rps {
@@ -260,8 +264,8 @@ input[type=submit] {
 	text-align: center;
 	font-family: 'Georgia', Times, Times New Roman, serif;
 	position: relative;
-	right: 230px;
-	bottom: 140px;
+	right: 253px;
+	bottom: 160px;
 }
 
 a {
