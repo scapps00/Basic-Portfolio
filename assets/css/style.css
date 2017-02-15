@@ -81,7 +81,7 @@ h2 {
 	width: 650px;
 	margin-bottom: 20px;
 	padding: 0px;
-	max-height: 800px;
+	max-height: 850px;
 }
 
 .small-container {
@@ -109,6 +109,10 @@ h3 {
 
 .connect {
 	margin: 0px 25px 25px 25px;
+}
+
+#footer-pusher {
+	height: 504px;
 }
 
 footer {
@@ -149,17 +153,17 @@ input[type=submit] {
 #edm {
 	float: left;
 	margin: 0px 30px 30px 30px;
-	width: 223px;
+	width: 275px;
 }
 
 #hangman {
 	float: left;
 	margin: 70px 30px 30px 30px;
 	position: relative;
-	top: 10px;
-	left: -283px;
+	top: -165px;
+	left: 0px;
 	z-index: 3;
-	width: 223px;
+	width: 275px;
 	height: 35px;
 	background-color: #4aaaa5;
 	color: #ffffff;
@@ -171,19 +175,19 @@ input[type=submit] {
 
 #bike {
 	float: left;
-	width: 223px;
+	width: 275px;
 	position: relative;
-	top: -152px;
-	left: 117px;
+	top: -233px;
+	left: 10px;
 }
 
 #rpg {
 	float: left;
 	position: relative;
-	left: 400px;
-	bottom: 237px;
+	left: 345px;
+	bottom: 315px;
 	z-index: 3;
-	width: 223px;
+	width: 275px;
 	height: 35px;
 	background-color: #4aaaa5;
 	color: #ffffff;
@@ -196,16 +200,16 @@ input[type=submit] {
 #giraffe {
 	clear: both;
 	float: left;
-	width: 223px;
+	width: 275px;
 	position: relative;
-	bottom: 150px;
+	bottom: 250px;
 	left: 30px;
 }
 
 #trivia {
 	float: left;
 	z-index: 3;
-	width: 223px;
+	width: 275px;
 	height: 35px;
 	background-color: #4aaaa5;
 	color: #ffffff;
@@ -214,23 +218,23 @@ input[type=submit] {
 	text-align: center;
 	font-family: 'Georgia', Times, Times New Roman, serif;
 	position: relative;
-	right: 193px;
-	bottom: 65px;
+	right: 245px;
+	bottom: 125px;
 }
 
 #train {
 	float: left;
 	margin: 0px 30px 30px 30px;
-	width: 223px;
+	width: 275px;
 	position: relative;
-	bottom: 216px;
-	right: -147px;	
+	bottom: 317px;
+	right: -40px;	
 }
 
 #rutgers {
 	float: left;
 	z-index: 3;
-	width: 223px;
+	width: 275px;
 	height: 35px;
 	background-color: #4aaaa5;
 	color: #ffffff;
@@ -239,23 +243,23 @@ input[type=submit] {
 	text-align: center;
 	font-family: 'Georgia', Times, Times New Roman, serif;
 	position: relative;
-	bottom: 330px;
-	left: 400px;
+	bottom: 425px;
+	left: 345px;
 }
 
 #window {
 	clear: both;
 	float: left;
 	margin: 0px 30px 30px 30px;
-	width: 223px;
+	width: 275px;
 	position: relative;
-	bottom: 240px;
+	bottom: 370px;
 }
 
 #rps {
 	float: left;
 	z-index: 3;
-	width: 223px;
+	width: 275px;
 	height: 35px;
 	background-color: #4aaaa5;
 	color: #ffffff;
@@ -264,8 +268,8 @@ input[type=submit] {
 	text-align: center;
 	font-family: 'Georgia', Times, Times New Roman, serif;
 	position: relative;
-	right: 253px;
-	bottom: 160px;
+	right: 305px;
+	bottom: 250px;
 }
 
 a {
