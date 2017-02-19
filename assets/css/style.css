@@ -77,9 +77,9 @@ h2 {
 	float: left;
 	background-color: #ffffff;
 	margin-top: 35px;
+	margin-bottom: 20px;
 	border: 2px solid #cccccc;
 	width: 650px;
-	margin-bottom: 20px;
 	padding: 0px;
 	max-height: 850px;
 }
@@ -166,7 +166,6 @@ input[type=submit] {
 	margin: 70px 30px 30px 30px;
 	position: relative;
 	top: -165px;
-	left: 0px;
 	z-index: 3;
 	width: 275px;
 	height: 35px;
