@@ -1,4 +1,4 @@
-# Project Title
+# Basic Portfolio
 
 My first project for the UNC Coding Bootcamp 2017
 
@@ -22,5 +22,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * Thanks for meyerweb.com for the reset code in reset.css
+* Thanks to the UNC Coding Bootcamp for the assignment
 
 
