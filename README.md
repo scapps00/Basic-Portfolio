@@ -13,7 +13,7 @@ none
 
 ## Authors
 
-* Samantha Capps (https://github.com/scapps00)
+* **Samantha Capps** (https://github.com/scapps00)
 
 ## License
 
